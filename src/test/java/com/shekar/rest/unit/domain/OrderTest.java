@@ -1,8 +1,11 @@
-package com.shekar.rest.domain;
+package com.shekar.rest.unit.domain;
 
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
+
+import com.shekar.rest.domain.LineItem;
+import com.shekar.rest.domain.Order;
 
 /**
  * @author snyala
